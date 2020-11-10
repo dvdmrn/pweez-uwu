@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cmd="${@}"
+
+if [[ ${cmd: -3} == "uwu" ]]; then
+  sudo ${cmd:: -3}
+else
+  echo "OwO didn't say uwu";
+fi
