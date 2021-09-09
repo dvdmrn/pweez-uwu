@@ -8,6 +8,6 @@ This was inspired by [this tweet](https://twitter.com/ctrlshifti/status/11608123
 To execute something as sudo, write `pweez [command(s)] uwu`
 
 #### Installation
-* `chmod 777 pweez`
+* `chmod 755 pweez`
 * `cp pweez /usr/bin/`
 * that's it, enjoy ~*
